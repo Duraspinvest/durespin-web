@@ -87,3 +87,5 @@ footer.pie a{color:var(--soft);margin-left:18px}
 .legal table{border-collapse:collapse;width:100%;font-size:15px;margin:8px 0 16px}
 .legal td{border:1px solid var(--line);padding:8px 12px;vertical-align:top}
 .legal td:first-child{width:38%;color:var(--soft)}
+
+.nota-juridica{margin-top:22px;font-size:15.5px;color:var(--muted);font-style:italic}
